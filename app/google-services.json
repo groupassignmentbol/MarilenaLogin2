@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "872261586931",
+    "firebase_url": "https://barter-trader-ceb0f.firebaseio.com",
+    "project_id": "barter-trader-ceb0f",
+    "storage_bucket": "barter-trader-ceb0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872261586931:android:7a6e11afa7d3999f1b0c86",
+        "android_client_info": {
+          "package_name": "com.marilena.bartertrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872261586931-o5ev7j7bbtkf8cl7h1l9585o2sha9fet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFYRjFgx171P39UyZSO2Ty_qM-vrFL_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872261586931-o5ev7j7bbtkf8cl7h1l9585o2sha9fet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
